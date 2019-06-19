@@ -1,3 +1,9 @@
-import React from "react"
+import React from 'react'
 
-export default () => <div>Hello world!</div>
+function IndexPage () {
+  return (
+    <div>Hello world!</div>
+  )
+}
+
+export default IndexPage
