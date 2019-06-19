@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to gatsby-project 👋</h1>
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 [![Version](https://img.shields.io/badge/version-0.0.0-blue.svg?cacheSeconds=2592000)](https://img.shields.io/badge/version-0.0.0-blue.svg?cacheSeconds=2592000) 
 [![documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/ripoul/gatsby-project)
 [![maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ripoul/gatsby-project/graphs/commit-activity)
@@ -45,6 +45,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
+<table><tr><td align="center"><a href="https://github.com/ripoul"><img src="https://avatars3.githubusercontent.com/u/23215341?v=4" width="100px;" alt="Jules LE BRIS"/><br /><sub><b>Jules LE BRIS</b></sub></a><br /><a href="https://github.com/ripoul/gatsby-project/issues?q=author%3Aripoul" title="Bug reports">🐛</a> <a href="#design-ripoul" title="Design">🎨</a> <a href="https://github.com/ripoul/gatsby-project/commits?author=ripoul" title="Code">💻</a> <a href="#maintenance-ripoul" title="Maintenance">🚧</a></td></tr></table>
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!

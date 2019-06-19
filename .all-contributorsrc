@@ -2,13 +2,26 @@
   "projectName": "gatsby-project",
   "projectOwner": "ripoul",
   "repoType": "github",
-  "repoHost": "https://github.com/ripoul/gatsby-project",
+  "repoHost": "https://github.com",
   "files": [
     "README.md"
   ],
   "imageSize": 100,
   "commit": false,
   "commitConvention": "none",
-  "contributors": [],
+  "contributors": [
+    {
+      "login": "ripoul",
+      "name": "Jules LE BRIS",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/23215341?v=4",
+      "profile": "https://github.com/ripoul",
+      "contributions": [
+        "bug",
+        "design",
+        "code",
+        "maintenance"
+      ]
+    }
+  ],
   "contributorsPerLine": 7
 }
