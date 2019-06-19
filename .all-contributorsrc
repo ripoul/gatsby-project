@@ -1,0 +1,14 @@
+{
+  "projectName": "gatsby-project",
+  "projectOwner": "ripoul",
+  "repoType": "github",
+  "repoHost": "https://github.com/ripoul/gatsby-project",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "none",
+  "contributors": [],
+  "contributorsPerLine": 7
+}

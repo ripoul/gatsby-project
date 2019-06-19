@@ -1,5 +1,6 @@
 <h1 align="center">Welcome to gatsby-project 👋</h1>
 
+[![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?style=flat-square)](#contributors)
 [![Version](https://img.shields.io/badge/version-0.0.0-blue.svg?cacheSeconds=2592000)](https://img.shields.io/badge/version-0.0.0-blue.svg?cacheSeconds=2592000) 
 [![documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/ripoul/gatsby-project)
 [![maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ripoul/gatsby-project/graphs/commit-activity)
@@ -36,9 +37,17 @@ npm run test
 
 * Github: [@ripoul](https://github.com/@ripoul)
 
-## 🤝 Contributing
+## 🤝 Contributing ✨
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/ripoul/gatsby-project/issues).
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
 ## Show your support
 
