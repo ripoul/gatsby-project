@@ -7,7 +7,7 @@
 [![Licence](https://img.shields.io/badge/License-WTFPL-yellow.svg)](https://github.com/ripoul/gatsby-project/blob/master/LICENCE)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/45588a03-34db-4cae-8212-e0af8e29b887/deploy-status)](https://app.netlify.com/sites/romantic-cori-a597df/deploys) 
 [![Build Status](https://travis-ci.org/ripoul/gatsby-project.svg?branch=master)](https://travis-ci.org/ripoul/gatsby-project)
-
+![GitHub issues](https://img.shields.io/github/issues/ripoul/gatsby-project.svg)
 
 > Testing autodeploiement with gatsby, github-pages, travis ci, and netify
 
