@@ -35,7 +35,7 @@ npm run test
 
 👤 **Jules**
 
-* Github: [@ripoul](https://github.com/@ripoul)
+* Github: [@ripoul](https://github.com/ripoul)
 
 ## 🤝 Contributing ✨
 
@@ -57,5 +57,5 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2019 [Jules](https://github.com/@ripoul).<br />
+Copyright © 2019 [Jules](https://github.com/ripoul).<br />
 This project is [WTFPL](https://github.com/ripoul/gatsby-starter/blob/master/LICENCE) licensed.
