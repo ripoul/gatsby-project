@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to gatsby-project 👋</h1>
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
-[![Version](https://img.shields.io/badge/version-0.0.0-blue.svg?cacheSeconds=2592000)](https://img.shields.io/badge/version-0.0.0-blue.svg?cacheSeconds=2592000) 
+[![GitHub package.json version (branch)](https://img.shields.io/github/package-json/v/ripoul/gatsby-starter/master.svg?color=blue&label=version) 
 [![documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/ripoul/gatsby-starter)
 [![maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ripoul/gatsby-starter/graphs/commit-activity)
 [![Licence](https://img.shields.io/badge/License-WTFPL-yellow.svg)](https://github.com/ripoul/gatsby-starter/blob/master/LICENCE)
