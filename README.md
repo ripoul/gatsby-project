@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to gatsby-project 👋</h1>
+<h1 align="center">Welcome to gatsby-starter 👋</h1>
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 [![Version](https://img.shields.io/badge/version-0.0.0-blue.svg?cacheSeconds=2592000)](https://img.shields.io/badge/version-0.0.0-blue.svg?cacheSeconds=2592000) 
@@ -11,6 +11,18 @@
 
 > Testing autodeploiement with gatsby, github-pages, travis ci, and netify
 
+This project is my tamplate for my gatsby projects. 
+
+There is : 
+- auto-deploiement with travis-CI to Netlify and github-pages
+- a js linter (linked to the travis build)
+
+To use this tamplate : 
+```sh
+gatsby new hello-world https://github.com/ripoul/gatsby-starter
+```
+where `hello-world` is your project name
+
 ### 🏠 [Homepage](https://ripoul.github.io/gatsby-starter/)
 
 ## Install
@@ -21,11 +33,17 @@ yarn install
 
 ## Usage
 
+To dev just type :
 ```sh
 yarn start
 ```
 
-## Run tests
+To build :
+```sh
+yarn build
+```
+
+## Run tests (not implemented yet)
 
 ```sh
 npm run test
