@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to gatsby-starter 👋</h1>
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
 ![GitHub package.json version (branch)](https://img.shields.io/github/package-json/v/ripoul/gatsby-starter/master.svg?color=blue&label=version) 
 [![documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/ripoul/gatsby-starter)
 [![maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ripoul/gatsby-starter/graphs/commit-activity)
@@ -63,7 +63,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-<table><tr><td align="center"><a href="https://github.com/ripoul"><img src="https://avatars3.githubusercontent.com/u/23215341?v=4" width="100px;" alt="Jules LE BRIS"/><br /><sub><b>Jules LE BRIS</b></sub></a><br /><a href="https://github.com/ripoul/gatsby-starter/issues?q=author%3Aripoul" title="Bug reports">🐛</a> <a href="#design-ripoul" title="Design">🎨</a> <a href="https://github.com/ripoul/gatsby-starter/commits?author=ripoul" title="Code">💻</a> <a href="#maintenance-ripoul" title="Maintenance">🚧</a></td></tr></table>
+<table><tr><td align="center"><a href="https://github.com/ripoul"><img src="https://avatars3.githubusercontent.com/u/23215341?v=4" width="100px;" alt="Jules LE BRIS"/><br /><sub><b>Jules LE BRIS</b></sub></a><br /><a href="https://github.com/ripoul/gatsby-starter/issues?q=author%3Aripoul" title="Bug reports">🐛</a> <a href="#design-ripoul" title="Design">🎨</a> <a href="https://github.com/ripoul/gatsby-starter/commits?author=ripoul" title="Code">💻</a> <a href="#maintenance-ripoul" title="Maintenance">🚧</a></td><td align="center"><a href="https://github.com/Airthee"><img src="https://avatars3.githubusercontent.com/u/13355624?v=4" width="100px;" alt="Raphaël"/><br /><sub><b>Raphaël</b></sub></a><br /><a href="https://github.com/ripoul/gatsby-starter/commits?author=Airthee" title="Documentation">📖</a></td></tr></table>
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
