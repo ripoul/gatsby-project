@@ -1,5 +1,5 @@
 {
-  "projectName": "gatsby-project",
+  "projectName": "gatsby-starter",
   "projectOwner": "ripoul",
   "repoType": "github",
   "repoHost": "https://github.com",
@@ -20,6 +20,15 @@
         "design",
         "code",
         "maintenance"
+      ]
+    },
+    {
+      "login": "Airthee",
+      "name": "Raphaël",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/13355624?v=4",
+      "profile": "https://github.com/Airthee",
+      "contributions": [
+        "doc"
       ]
     }
   ],
