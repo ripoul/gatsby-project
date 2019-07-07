@@ -9,15 +9,15 @@
 [![Build Status](https://travis-ci.org/ripoul/gatsby-starter.svg?branch=master)](https://travis-ci.org/ripoul/gatsby-starter)
 ![GitHub issues](https://img.shields.io/github/issues/ripoul/gatsby-starter.svg)
 
-> Testing autodeploiement with gatsby, github-pages, travis ci, and netify
+> Testing auto deployment with gatsby, github-pages, travis ci, and netify
 
-This project is my tamplate for my gatsby projects. 
+This project is my template for my gatsby projects. 
 
 There is : 
-- auto-deploiement with travis-CI to Netlify and github-pages
+- auto deployment with travis-CI to Netlify and github-pages
 - a js linter (linked to the travis build)
 
-To use this tamplate : 
+To use this template : 
 ```sh
 gatsby new hello-world https://github.com/ripoul/gatsby-starter
 ```
