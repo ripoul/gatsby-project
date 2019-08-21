@@ -2,8 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
 ![GitHub package.json version (branch)](https://img.shields.io/github/package-json/v/ripoul/gatsby-starter/master.svg?color=blue&label=version) 
-[![documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/ripoul/gatsby-starter)
-[![maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ripoul/gatsby-starter/graphs/commit-activity)
+[![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=ripoul/gatsby-starter)](https://dependabot.com)
 [![Licence](https://img.shields.io/badge/License-WTFPL-yellow.svg)](https://github.com/ripoul/gatsby-starter/blob/master/LICENCE)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/45588a03-34db-4cae-8212-e0af8e29b887/deploy-status)](https://app.netlify.com/sites/romantic-cori-a597df/deploys) 
 [![Build Status](https://travis-ci.org/ripoul/gatsby-starter.svg?branch=master)](https://travis-ci.org/ripoul/gatsby-starter)
