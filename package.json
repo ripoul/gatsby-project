@@ -15,7 +15,7 @@
     "release": "release-it"
   },
   "dependencies": {
-    "gatsby": "^2.13.75",
+    "gatsby": "^2.13.77",
     "react": "^16.8.6",
     "react-dom": "^16.9.0"
   },
