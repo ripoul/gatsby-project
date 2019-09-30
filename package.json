@@ -17,7 +17,7 @@
   "dependencies": {
     "gatsby": "^2.15.28",
     "react": "^16.8.6",
-    "react-dom": "^16.9.0"
+    "react-dom": "^16.10.1"
   },
   "devDependencies": {
     "@babel/core": "^7.6.0",
