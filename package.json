@@ -24,7 +24,7 @@
     "babel-core": "^7.0.0-bridge.0",
     "babel-eslint": "^10.0.3",
     "babel-jest": "^24.9.0",
-    "babel-preset-gatsby": "^0.2.21",
+    "babel-preset-gatsby": "^0.2.22",
     "coveralls": "^3.0.7",
     "dotenv": "^8.2.0",
     "enzyme": "^3.7.0",
