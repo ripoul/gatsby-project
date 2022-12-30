@@ -15,7 +15,7 @@
     "release": "release-it"
   },
   "dependencies": {
-    "gatsby": "^2.19.12",
+    "gatsby": "^2.32.13",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
   },
@@ -41,7 +41,7 @@
     "jest": "^24.9.0",
     "jest-axe": "^3.3.0",
     "prettier": "^1.19.1",
-    "release-it": "^12.4.3"
+    "release-it": "^15.6.0"
   },
   "repository": {
     "type": "git",
